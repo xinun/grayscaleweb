@@ -11,7 +11,7 @@ on:
       - 'v*.*'
 
 env:
-  DOCKER_IMAGE_NAME: xinuun/nodejs-ci
+  DOCKER_IMAGE_NAME: xinuun/grayweb
 
 jobs:
   build-and-push:
